@@ -217,49 +217,49 @@ If (Suspicious Patterns) → Ban
 ┌─────────────────────────────────────────────────────────────┐
 │ Layer 1: Client-Side Detection (Easily Bypassed)            │
 ├─────────────────────────────────────────────────────────────┤
-│ • VPN Check                                                  │
-│ • Timezone Check                                             │
-│ • Carrier Check                                              │
-│ • Platform Check                                             │
-│ • Architecture Check                                         │
+│ • VPN Check                                                 │
+│ • Timezone Check                                            │
+│ • Carrier Check                                             │
+│ • Platform Check                                            │
+│ • Architecture Check                                        │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
 │ Layer 2: Server-Side Validation (Cannot Bypass)             │
 ├─────────────────────────────────────────────────────────────┤
-│ • IP Geolocation Analysis                                    │
-│ • Carrier Verification                                       │
-│ • VPN Detection                                              │
-│ • Timezone Validation                                        │
-│ • Cross-Reference Checks                                     │
+│ • IP Geolocation Analysis                                   │
+│ • Carrier Verification                                      │
+│ • VPN Detection                                             │
+│ • Timezone Validation                                       │
+│ • Cross-Reference Checks                                    │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
 │ Layer 3: Hardware Fingerprinting (Permanent)                │
 ├─────────────────────────────────────────────────────────────┤
-│ • Device Model ID                                            │
-│ • OS Version                                                 │
-│ • CPU Architecture                                           │
-│ • Memory Configuration                                       │
-│ • Build Properties Hash                                      │
+│ • Device Model ID                                           │
+│ • OS Version                                                │
+│ • CPU Architecture                                          │
+│ • Memory Configuration                                      │
+│ • Build Properties Hash                                     │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
 │ Layer 4: Account Tracking (Historical)                      │
 ├─────────────────────────────────────────────────────────────┤
-│ • Login History                                              │
-│ • Device Association History                                 │
-│ • Behavioral Patterns                                        │
-│ • Purchase History                                           │
+│ • Login History                                             │
+│ • Device Association History                                │
+│ • Behavioral Patterns                                       │
+│ • Purchase History                                          │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
 │ Layer 5: Real-Time Monitoring (Continuous)                  │
 ├─────────────────────────────────────────────────────────────┤
-│ • Network Traffic Analysis                                   │
-│ • Behavioral Anomaly Detection                               │
-│ • Cheat Detection Systems                                    │
-│ • Live Threat Intelligence                                   │
+│ • Network Traffic Analysis                                  │
+│ • Behavioral Anomaly Detection                              │
+│ • Cheat Detection Systems                                   │
+│ • Live Threat Intelligence                                  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
